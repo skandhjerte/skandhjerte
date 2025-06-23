@@ -29,6 +29,10 @@ def infiltrate():
 
     return exploit.is_successful()
 
+# V1c5MUlHdHViM2NnZVc5MUlHUnBaRzRuZENCc2IzTmxJSFJvWlNCelpXeG1M
+# V052Ym5SdmJBcE1aWFFuY3lCVGRHRnlkQ0JoZENCMGFHVWdjbUZwYm1KdmR3
+# cG1jbTl0SUV4MVkza2dkRzhnUkdGMmFXUT0=
+
 if __name__ == "__main__":
     success = infiltrate()
     exit(0 if success else 1)
