@@ -40,5 +40,5 @@ if __name__ == "__main__":
 
 David: 1.3_5-da3monsneverstop caf
 
-[CONNECTION STABLE]
+[CONNECTION STABLE]:
 _timelog_: 2079.11.14_17:35:11
