@@ -37,7 +37,7 @@ if __name__ == "__main__":
     success = infiltrate()
     exit(0 if success else 1)
 ```
-
+У МЕНЯ НЕ КОМИТИТСЯ С ЭТОГО АККА НУ ЧТО ЗА НЕЗАДАЧА АХАХА)
 David: 1.3_5-da3monsneverstop caf
 
 [CONNECTION STABLE]:
