@@ -16,7 +16,7 @@
 from netrunutils import fastscan as fs
 from kiroshi.targeted import networktarget as nt
 import blackicexploit
-
+)
 def infiltrate():
     target = nt.get_current_target() 
     nodes = fs.scan(target, mode='stealth')
