@@ -1,4 +1,4 @@
-## ACCESS GRANTED [NETRUNR VER.15.9329] CONNECTION STABLE [97.02%]
+да## ACCESS GRANTED [NETRUNR VER.15.9329] CONNECTION STABLE [97.02%]
 
 
 
@@ -66,6 +66,6 @@ userSettingsApi.js ты в сердце навсегда, я тебя подоз
 фарм актива потому что я по 12 часов сижу над проектом и было бы несправедливо лузать тут актив
 дело было в том что там OAuth2 и HTTP(Bearer) это два способа я чото вааааще лоханулся но я быстро реабилитировался всем удачи (не забывайте я рил коммичу в проект ток с другого акка он не меняется в vs code)
 David: 1.3_5-da3monsneverstop caf
-
+я устал
 [CONNECTION STABLE]:
 _timelog_: 2079.11.14_17:35:11
